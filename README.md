@@ -1,4 +1,4 @@
-# uoft-watilist-alerts
+# uoft-waitlist-alerts
 
 ## Problem Domain
 The problem domain that we hope to make an application in is education. To be more specific, we hope to help make the course selection process easier for students on Acorn, especially during the **no waitlist period**.
