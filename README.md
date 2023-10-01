@@ -18,4 +18,4 @@ FAQ Link: https://help.acorn.utoronto.ca/timetable-builder-qa/
 
 
 ### List of Technical Problems
-So far, the main problem we faced was adding **OkHTTP** to the classpath and installing the library. We also hope to convert our project into a Maven project to make use of easy dependency management.
+So far, the main problem we faced was adding **OkHTTP** to the classpath and installing the library. We are hoping to convert our project into a Maven project to make use of easy dependency management.
