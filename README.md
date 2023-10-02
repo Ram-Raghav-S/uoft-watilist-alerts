@@ -26,19 +26,5 @@ Although there is no official documentation we could find, we got the API call w
 ### Example Output
 <img width="1002" alt="Screenshot 2023-10-01 at 6 45 20 PM" src="https://github.com/Ram-Raghav-S/uoft-watilist-alerts/assets/44104695/5c1ca58d-9515-4107-b6ab-4e47b7c143fd">
 
-
-### List of Technical Problems
-So far, the main problem we faced was adding **OkHTTP** to the classpath and installing the library. We also hope to convert our project into a Maven project to make use of easy dependency management.
-
-- API Link: https://api.easi.utoronto.ca/ttb/getPageableCourses
-- FAQ Link: https://help.acorn.utoronto.ca/timetable-builder-qa/
-
-### API Request Screenshot
-<img width="702" alt="Screenshot 2023-10-01 at 6 29 35 PM" src="https://github.com/Ram-Raghav-S/uoft-watilist-alerts/assets/44104695/2b370ba3-8364-4786-bed1-cc0fd3d7b98c">
-
-### Example Output
-<img width="1002" alt="Screenshot 2023-10-01 at 6 45 20 PM" src="https://github.com/Ram-Raghav-S/uoft-watilist-alerts/assets/44104695/5c1ca58d-9515-4107-b6ab-4e47b7c143fd">
-
-
 ### List of Technical Problems
 So far in our project, the main problem we faced was adding **OkHTTP** to the classpath and installing the library. We are hoping to convert our project into a Maven project to make use of easy dependency management.
