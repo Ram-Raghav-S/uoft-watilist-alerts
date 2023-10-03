@@ -1,10 +1,3 @@
-# uoft-waitlist-alerts
-
-## Problem Domain
-The problem domain that we hope to make an application in is the realm of education. Specifically, we hope to help make the course selection process easier for students on Acorn, especially during the **no waitlist period**.
- 
-## Application Description
-For our application, we hope to build a web application with the Spring Boot framework as the backend API and use Java Swing as a frontend. We noticed that during the no-waitlist period, students often have to refresh Acorn repeatedly to enrol in high-demand courses. To fix this process and make it more efficient, we would like to set up a notification system so that students can be notified within 5 minutes of a course spot opening up via the UofT Timetable API.
 
 ### Documentation Link
 # uoft-waitlist-alerts
