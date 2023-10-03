@@ -1,5 +1,4 @@
 
-### Documentation Link
 # uoft-waitlist-alerts
 
 ## Problem Domain
